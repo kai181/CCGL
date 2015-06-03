@@ -11,5 +11,3 @@ To add our collaboration, just follow the steps (for linux and mac):
 5. $ vi id_rsa.pub, copy the content in "id_rsa.pub" to the GITHUB website: setting-SSH key
 6. $ ssh git@github.com #test it and press "yes" to be authenticated
 7. $ git clone "the HTTPS clone URL in our website"
-8. $ cd CCGL
-9. $ git status 
