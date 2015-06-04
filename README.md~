@@ -12,4 +12,9 @@ To add our collaboration, just follow the steps (for linux and mac):
 6. $ ssh git@github.com #test it and press "yes" to be authenticated
 7. $ git clone "the HTTPS clone URL in our website"
 8. $ cd CCGL
-9. $ git status 
+9. $ git status  #check the difference between your local files and the website
+10. add or modified the local files.
+11. $ git add .
+12. $ git commit -m "description"
+13. $ git push
+14. to delete files, use $ git rm 
